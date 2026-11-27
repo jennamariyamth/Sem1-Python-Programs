@@ -1,1 +1,1 @@
-# Sem1-Pythong-Programs
+# Sem1-Python-Programs
